@@ -2,7 +2,7 @@
 
 **`Desenvolvedora Front-End`**
 
-👋 Olá! Meu nome é Luana Bolino e sou estudante de Sistemas para Internet na UTFPR, sou apaixonada por desenvolvimento web. Com 20 anos, estou sempre em busca de aprender e aplicar novos conhecimentos em HTML, CSS, JavaScript, Typescript e Angular. Meu foco é criar experiências de usuário intuitivas e visuais agradáveis.
+👋 Olá! Meu nome é Luana Bolino e sou estudante de Sistemas para Internet na UTFPR, sou apaixonada por desenvolvimento web. Com 20 anos, estou sempre em busca de aprender e aplicar novos conhecimentos em Front-End. Meu foco é criar experiências de usuário intuitivas e visuais agradáveis.
 
 <div align="left">
   <a href="https://www.linkedin.com/in/luanabolino?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
